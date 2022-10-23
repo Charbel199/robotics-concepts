@@ -2,6 +2,8 @@
 
 The aim of this repository is to store all robotics concepts I have acquired from my experiences, courses, projects, etc ... 
 
+ROS will be the main framework used for showcasing the concepts and testing new features.
+
 **Note: Most explanations are very summarized, the goal here is to quickly refresh your mind when looking up a concept and 
 emphasizing on the use cases, benefits and drawbacks.**
 
