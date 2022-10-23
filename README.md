@@ -9,7 +9,7 @@ emphasizing on the use cases, benefits and drawbacks.**
 
 ### Table of Contents
 **[- ROS](ros)**<br>
-&emsp; **[- Basics](ros/basics/)**<br>
+&emsp; **[- Basics](ros/basics/)** *Summary based on this [playlist](https://www.youtube.com/watch?v=1tqYrWqrbC8&list=PLRG6WP3c31_U7TFGduEIJWVtkOw6AJjFf)*<br>
 &emsp;&emsp; **[- Introduction](ros/basics/Introduction.md)**<br>
 &emsp;&emsp; **[- Basics](ros/basics/Basics.md)**<br>
 &emsp;&emsp; **[- Commands](ros/basics/Commands.md)**<br>
